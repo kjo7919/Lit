@@ -547,6 +547,7 @@ svg:not(:root) {
     padding: 5px 10px;
     font-size: 0.8rem;
     cursor: pointer;
+    margin-right: 7px;
 }
 
 .alertFollowBtn:hover{
@@ -561,10 +562,11 @@ svg:not(:root) {
     border: 0;
     color: #000000;
     margin-left: 23px;
-    padding: 5px 10px;
+    padding: 5px 9px;
     font-size: 0.8rem;
     cursor: pointer;
     border: 1px solid rgba(0,0,0,0.2);
+    margin-right: 7px;
 }
 
 .alertFollowingBtn:hover{
